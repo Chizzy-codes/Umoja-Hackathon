@@ -1,0 +1,42 @@
+This is a private hackathon open to UmojaHack Nigeria participants. If you are a university student in Nigeria and would like to participate, contact Zindi Ambassador Femi Azeez (azeezfemi17937@gmail.com).
+
+When providing insurance, there are very few points of contact between customers and the insurance provider. Because of this, AXA Mansard needs to make every point of contact count; one of the most valuable of these is filing and settlement of claims.
+
+AXA Mansard believes that to achieve better service level standards, they need to anticipate future demands in terms of claims request volume. This will allow them to better manage their resources while keeping the customer experience positive and the levels of satisfaction high.
+
+The objective of this hackathon is to develop a predictive model that determines if a customer will submit a vehicle insurance claim in the next three months. This solution will help streamline financial planning at AXA and allow them to better serve their customers by understanding which customers are likely to submit a claim.
+
+How to prepare for UmojaHack
+
+Add your university to your profile. Watch this YouTube video.
+Practice on a challenge and make your first Zindi submission. Watch this YouTube video.
+Make a team in preparation for UmojaHack. Watch this YouTube video.
+About AXA Mansard (axamansard.com)
+
+
+AXA Mansard is a member of the AXA Group, the worldwide leader in insurance and asset management with 166,000 employees serving 107 million clients in 64 countries.
+
+AXA Mansard Insurance plc is rated B+ by A.M. Best (2016) for Financial Strength. The Company is also certified ISO 9001:2008 compliant by the Standard Organisation of Nigeria (SON) for quality management systems.
+
+AXA is present in geographically diverse markets, with operations concentrated in Europe, North America and Asia Pacific. AXA is also present in Central and South America, Middle East and in Africa via operations in Cameroon, Gabon, Ivory Coast, Morocco, Senegal and Algeria. AXA has more than over 20 years continuous presence in Africa.
+
+About DSN (datasciencenigeria.org)
+
+
+DSN's mission is to build a world-class Artificial Intelligence (AI) knowledge, research and innovation ecosystem that delivers high-impact transformational research, business use applications, AI-first start-ups, support employability and social good use cases. We are committed to raising one million AI talents in 10 years and thus position Nigeria as one of the top 10 AI talent/knowledge destinations with 20% GDP multiplier impact. We are poised to accelerate Nigeria’s socio-economic development through a solution-oriented application of machine learning in solving social/business problems.
+
+About H2O.ai (H2O.ai)
+
+
+H2O.ai is leading the movement to democratize AI for Everyone. Their approach is to be open, transparent and push the bleeding edge. Their philosophy is to create a culture of makers: community, customers, partners, entrepreneurs and our own “makers gonna make”. Their vision is to democratize AI for everyone. Not just a select few. They enable this with their award winning, H2O Driverless AI, the platform that uses AI to do AI to make it easier, faster and cheaper to deliver expert data science as a force multiplier for every enterprise. H2O.ai wants everyone to explore, learn, dream and imagine a new future.
+
+About AI6 (aisaturdayslagos.com)
+
+
+AI6 is an active learning community which promotes Artificial Intelligence (AI) in Lagos. They organize structured study groups around core AI fields like Machine Learning, Computer Vision (CV) and Natural Language Processing (NLP). As Artificial Intelligence is set to revolutionize the 4th industrial revolution, we need to be ready and prepared. AI6 wants the next billion AI practitioners rise from AI6 communities. AI6 share a belief that AI will transmogrify almost (if not all) industries and they want to be on the forefront of making that happen.
+
+About Microsoft (microsoft.com)
+
+
+This hackathon is sponsored by Microsoft (Nasdaq “MSFT” @microsoft). Microsoft enables digital transformation for the era of an intelligent cloud and an intelligent edge. Microsoft has operated in Africa for more than 25 years. In that time they have built strong partnerships across the continent, helped bridge gaps in infrastructure, connectivity and capability, and are working to empower countries in Africa to digitally transform while creating sustained societal impact. Earlier this year, Microsoft opened Africa’s first hyper-scale data centers in Johannesburg and Cape Town, South Africa. 
+Most recently, the company also announced the opening of two Africa Development Centers in Nairobi and Lagos, where world-class African talent can create innovative solutions for local and global impact.

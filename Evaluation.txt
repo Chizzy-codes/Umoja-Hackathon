@@ -1,0 +1,76 @@
+This is a private hackathon open to UmojaHack Nigeria participants. If you are a university student in Nigeria and would like to participate, contact Zindi Ambassador Karim Amer Femi Azeez (azeezfemi17937@gmail.com).
+
+Teams and collaboration
+
+You may participate in this competition as an individual or in a team of up to four people. When creating a team, the team must have a total submission count less than or equal to the maximum allowable submissions as of the formation date. A team will be allowed the maximum number of submissions for the competition, minus the highest number of submissions among team members at team formation. Prizes are transferred only to the individual players or to the team leader.
+
+Multiple accounts per user are not permitted, and neither is collaboration or membership across multiple teams. Individuals and their submissions originating from multiple accounts will be disqualified.
+
+Code must not be shared privately outside of a team. Any code that is shared, must be made available to all competition participants through the platform. (i.e. on the discussion boards).
+
+Datasets and packages
+
+The solution must use publicly-available, open-source packages only. Your models should not use any of the metadata provided.
+
+You may use only the datasets provided for this competition. Automated machine learning tools such as automl are not permitted.
+
+If the challenge is a computer vision challenge, image metadata (Image size, aspect ratio, pixel count, etc) may not be used in your submission.
+
+You may use pretrained models as long as they are openly available to everyone.
+
+The data used in this competition is the sole property of Zindi and the competition host. You may not transmit, duplicate, publish, redistribute or otherwise provide or make available any competition data to any party not participating in the Competition (this includes uploading the data to any public site such as Kaggle or GitHub). You may upload, store and work with the data on any cloud platform such as Google Colab, AWS or similar, as long as 1) the data remains private and 2) doing so does not contravene Zindi’s rules of use.
+
+You must notify Zindi immediately upon learning of any unauthorised transmission of or unauthorised access to the competition data, and work with Zindi to rectify any unauthorised transmission or access.
+
+Your solution must not infringe the rights of any third party and you must be legally entitled to assign ownership of all rights of copyright in and to the winning solution code to Zindi.
+
+Submissions and winning
+
+You may make a maximum of 200 submissions per day. Your highest-scoring solution on the private leaderboard at the end of the competition will be the one by which you are judged.
+
+Zindi maintains a public leaderboard and a private leaderboard for each competition. The Public Leaderboard includes approximately 50% of the test dataset. While the competition is open, the Public Leaderboard will rank the submitted solutions by the accuracy score they achieve. Upon close of the competition, the Private Leaderboard, which covers the other 50% of the test dataset, will be made public and will constitute the final ranking for the competition.
+
+If your solution places 1st, 2nd, or 3rd in the final ranking, you will be required to submit your winning solution code to us for verification and you thereby agree to share all worldwide rights of copyright in and to such winning solution to Zindi.
+
+You acknowledge and agree that Zindi may, without any obligation to do so, remove or disqualify an individual, team, or account if Zindi believes that such individual, team, or account is in violation of these rules. Entry into this competition constitutes your acceptance of these official competition rules.
+
+Teams may win in one challenge category, and are encouraged to enter only one
+
+Participants may compete individually or in teams of up to four people.
+The teams will be judged based on their ranking on the dedicated Zindi leaderboard at the time of competition close.
+All participants in the hackathon must be registered students (undergraduate or graduate) at the university they represent. Lecturers, University staff, and alumni may participate in a mentorship or advisory capacity.
+Teams cannot collaborate or share information with each other.
+All solutions must use machine learning, but teams are permitted and encouraged to use exploratory data analysis in building their solutions.
+All solutions must use publicly-available, open-source packages only.
+Solutions must use only the allowed and available datasets.
+Participants caught cheating or breaking any competition rules will be immediately disqualified from the competition.
+Universities caught cheating or allowing teams to cheat will be immediately disqualified from the competition.
+The winning code must be submitted to Zindi for review and validation immediately at the close of the competition. In the interest of logistics, code review will take place only after the competition has closed and winners have been announced.
+Please refer to the FAQs and Terms of Use for additional rules that may apply to this competition. We reserve the right to update these rules at any time.
+
+
+
+
+
+The error metric for this competition is the F1 score, which ranges from 0 (total failure) to 1 (perfect score). Hence, the closer your score is to 1, the better your model.
+
+F1 Score: A performance score that combines both precision and recall. It is a harmonic mean of these two variables. Formula is given as: 2*Precision*Recall/(Precision + Recall)
+
+Precision: This is an indicator of the number of items correctly identified as positive out of total items identified as positive. Formula is given as: TP/(TP+FP)
+
+Recall / Sensitivity / True Positive Rate (TPR): This is an indicator of the number of items correctly identified as positive out of total actual positives. Formula is given as: TP/(TP+FN)
+
+Where:
+
+TP=True Positive
+FP=False Positive
+TN=True Negative
+FN=False Negative
+For every row in the dataset, submission files should contain 2 columns: ID and target.
+
+Your submission file should look like this:
+
+ID        target
+WGZRIT9     0
+UOFLGFN     0
+8F9K7D9     1
